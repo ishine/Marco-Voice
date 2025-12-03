@@ -12,7 +12,9 @@
 <img src="https://img.shields.io/github/issues-closed/AIDC-AI/Marco-Voice?color=green" alt="Closed Issues">
 <img src="https://img.shields.io/github/stars/AIDC-AI/Marco-Voice?color=yellow" alt="Stars">
 <img src="https://img.shields.io/badge/python-3.10-purple.svg" alt="Python">
-<img src="https://img.shields.io/badge/PyTorch-2.0-blue.svg" alt="PyTorch"> 
+<img src="https://img.shields.io/badge/PyTorch-2.0-blue.svg" alt="PyTorch">
+<a href="https://huggingface.co/spaces/AIDC-AI/Marco-Voice-TTS"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow" alt="Hugging Face Demo"></a>
+<a href="https://huggingface.co/AIDC-AI/Marco-Voice"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-orange" alt="Hugging Face Model"></a>
 <!-- [![Paper](https://img.shields.io/badge/Paper-PDF-%23B31B1B)](https://arxiv.org/abs/2508.02038) -->
 <!-- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) -->
 <!-- [![HuggingFace Dataset](https://img.shields.io/badge/Dataset-HuggingFace-orange)](https://huggingface.co/datasets/AIDC-AI/CSEMOTIONS) -->
@@ -20,6 +22,7 @@
 <!-- ![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-red) -->
 
 </div>
+
 <p align="center"></p>
 
 <div align="center">
